@@ -39,11 +39,11 @@ const resume = {
   ],
   skills: [   
     'C# / net / ASP NET',
+    'C / C++',
+    'Lua',
+    'Java'
     'Node',
     'SQL',
-    'Angular',
-    'React/NextJs',
-    'TypeScript',
     'GIT',
     'Docker',
     'API-REST'
