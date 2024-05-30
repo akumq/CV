@@ -41,7 +41,7 @@ const resume = {
     'C# / net / ASP NET',
     'C / C++',
     'Lua',
-    'Java',  // Ajout de la virgule manquante
+    'Java', 
     'Node',
     'SQL',
     'GIT',
