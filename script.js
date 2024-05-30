@@ -5,7 +5,7 @@ const resume = {
   firstName: 'Amadou',
   lastName: 'Sow',
   jobTitle: 'Développeur  en Alternance',
-  city: 'Epinal',
+  city: 'Épinal',
   country: 'France',
   phone: '+33781965497',
   email: 'madousow88@gmail.com',
@@ -49,7 +49,7 @@ const resume = {
     'API-REST'
   ],
   languages: ['Francais: Native','Anglais: Toeic 870'],
-  professionalSummary: `Étudiant, je suis passionné par le développement d'applications et l'imagerie numérique. Grâce à mon parcours en scolaire, j'ai acquis des compétences solides en algorithmique et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuse technologie différente.`,
+  professionalSummary: `Étudiant, je suis passionné par le développement d'applications et l'imagerie numérique. Grâce à mon parcours scolaire, j'ai acquis des compétences solides en algorithmique et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuses technologies différentes.`,
   employmentHistory: [
         {
       jobTitle: 'Développeur Junior',
@@ -58,9 +58,9 @@ const resume = {
       employer: 'Prefabat',
       city: 'Le Kertoff',
       achievements: [
-        "Divers taches de maintenance logicielle",
-        "Réalisation de nouvels solutions pour l'entreprise",
-        "Gérer le déploiement d'une nouvelle solutions au sein de l'entreprise"
+        "Diverses tâches de maintenance logicielle",
+        "Réalisation de nouvelles solutions pour l'entreprise",
+        "Gérer le déploiement d'une nouvelle solution au sein de l'entreprise."
         ]
     },
     {
@@ -70,8 +70,8 @@ const resume = {
       city: 'Île De France',
       achievements: [
         "Déchargement de camions",
-        "pose des colis sur une chaine de trie",
-        "divers travaux de manutention"
+        "pose des colis sur une chaine de tri",
+        "Divers travaux de manutention"
         ]
     },
     {
@@ -79,9 +79,9 @@ const resume = {
       employer: 'CAF Vosges',
       city: 'Epinal',
       achievements: [
-        "Maintenance Informatique",
-        "Veille Informatique",
-        "Installation et Configuration de poste de travail"
+        "Maintenance informatique" ,
+        "Veille informatique ",
+        "Installation et configuration de poste de travail "
         ]
     },
   ],
