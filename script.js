@@ -96,7 +96,7 @@ const resume = {
       ]
     },
     {
-      jobTitle: 'TOIEC',
+      jobTitle: 'TOIEC (Test of English for International Communication)',
       startDate: '2024',
       endDate: '',
       employer: '',
