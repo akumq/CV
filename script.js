@@ -48,7 +48,7 @@ const resume = {
     'Docker',
     'API-REST'
   ],
-  languages: ['Francais: Native','Anglais: Toeic 870'],
+  languages: ['Francais: Native','Anglais: Toeic 870 / 990'],
   professionalSummary: `Étudiant, je suis passionné par le développement d'applications et l'imagerie numérique. Grâce à mon parcours scolaire, j'ai acquis des compétences solides en algorithmique et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuses technologies différentes.`,
   employmentHistory: [
     {
@@ -101,7 +101,7 @@ const resume = {
       endDate: '',
       employer: '',
       achievements: [
-        'Score: 870',
+        'Score: 870/990',
       ]
     },
     {
