@@ -27,11 +27,11 @@ const resume = {
       {
       label: 'GitHub',
       link: 'https://github.com/akumq'
+    },
+    {
+      label : 'Linkedin',
+      link : 'https://www.linkedin.com/in/amadou-sow-861765212/'
     }
-    // {
-    //   label : 'Linkedin',
-    //   link : 'https://www.linkedin.com/in/alberto-rojas-caceres/'
-    // },
     // {
     //   label : 'Portafolio',
     //   link : 'https://cv-portafolioakc.netlify.app'
