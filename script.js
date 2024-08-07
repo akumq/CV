@@ -4,7 +4,7 @@
 const resume = {
   firstName: 'Amadou',
   lastName: 'Sow',
-  jobTitle: 'Développeur  en Alternance',
+  jobTitle: "Recherche d'Alternance en informatique décisionels",
   city: 'Épinal',
   country: 'France',
   phone: '+33781965497',
@@ -49,10 +49,10 @@ const resume = {
     'API-REST'
   ],
   languages: ['Francais: Native','Anglais: Toeic 870 / 990'],
-  professionalSummary: `Étudiant, je suis passionné par le développement d'applications et l'imagerie numérique. Grâce à mon parcours scolaire, j'ai acquis des compétences solides en algorithmique et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuses technologies différentes.`,
+  professionalSummary: `je suis passionné par le digital. Grâce à mon parcours scolaire, j'ai acquis des compétences solides en algorithmique en gestion de projet et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuses technologies différentes.`,
   employmentHistory: [
     {
-      jobTitle: 'Développeur Junior',
+      jobTitle: 'Développeur .NET Junior',
       startDate: 'Septembre 2022',
       endDate: 'Août 2024',
       employer: 'Prefabat',
@@ -79,9 +79,9 @@ const resume = {
       employer: 'CAF Vosges',
       city: 'Epinal',
       achievements: [
-        "Maintenance informatique" ,
+        "Maintenance informatique",
         "Veille informatique ",
-        "Installation et configuration de poste de travail "
+        "Installation et configuration de poste de travail"
       ]
     },
   ],
@@ -92,7 +92,7 @@ const resume = {
       endDate: '',
       employer: '',
       achievements: [
-        'IUT de Saint-Die-Des-Vosges',
+        'IUT de Saint-Die-Des-Vosges ',
       ]
     },
     {
@@ -110,8 +110,18 @@ const resume = {
       endDate: '',
       employer: '',
       achievements: [
-        'Lycée Pierre Mendes France',
+        'Lycée Pierre Mendes France | Epinal ',
       ]
+    }
+  ],
+  passions: [
+    {
+      name: "Digital",
+      content: "Je suis depuis très jeune passionné par le digital. Je suis de la génération qui est née avec un smartphone dans les mains et depuis lors, je ne cesse de m'intéresser à ce domaine qui sera une pierre angulaire au futur de l'humanité."
+    },
+    {
+      name: "Jeux Vidéo",
+      content: "J'utilise autant les jeux vidéo dans un aspect ludique, mais également en tant que développeur, ça m'a permis de toucher à de nombreux domaines différents, aussi bien dans l'imagerie numérique, en UI/UX, en modélisation 3D, etc. C'est un domaine pluridisciplinaire que j'affectionne."
     }
   ],
   photo: '',

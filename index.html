@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="fr" >
 <head>
   <meta charset="UTF-8">
@@ -308,7 +308,38 @@
                 </p>
               </div>
             </div>
-            
+            <br>
+            <div class="row mt-5">
+              <div class="col-auto bullet pt-2">
+                <i class="bi bi-circle-fill"></i>
+              </div>
+              <div class="col">
+                <p class="title">Passion</p>
+              </div>
+            </div>
+            <div class="row record mb-4 bullet" v-for="passion in passions">
+              <div class="col-auto">
+                <i class="bi bi-record-circle"></i>
+              </div>
+              <div class="col">
+                <p class="text-uppercase fw-bold position-relative">
+                  {{ passion.name }}
+                </p>
+                <p class="mb-0">
+                  • {{ passion.content }}
+                </p>
+                <!-- <p class="text-uppercase fw-bold position-relative">
+                  {{ certificate.jobTitle }}
+                  <span>&nbsp;|&nbsp;{{ certificate.startDate }} - {{ certificate.endDate }}</span>
+                </p>
+                <p class="text-uppercase fst-italic fw-bold">
+                  {{ certificate.employer }}
+                </p>
+                <p class="mb-0" v-for="achievement in certificate.achievements">
+                  • {{ achievement }}
+                </p> -->
+              </div>
+            </div>
 <!--              -->
           </div>
         </div>
