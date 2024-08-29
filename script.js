@@ -41,6 +41,8 @@ const resume = {
     'C# / net / ASP NET',
     'C / C++',
     'Lua',
+    'Vulkan / OpenGL',
+    'PHP',
     'Java', 
     'Node',
     'SQL',
@@ -52,15 +54,19 @@ const resume = {
   professionalSummary: `je suis passionné par le digital. Grâce à mon parcours scolaire, j'ai acquis des compétences solides en algorithmique en gestion de projet et en anglais. Mon expérience en alternance m'a permis de mettre en pratique mes connaissances théoriques et de travailler efficacement en équipe. Je vise à créer des solutions innovantes et à contribuer activement à la réussite des projets en maîtrisant de nombreuses technologies différentes.`,
   employmentHistory: [
     {
-      jobTitle: 'Développeur .NET Junior',
+      jobTitle: 'Alternant Développeur Junior',
       startDate: 'Septembre 2022',
       endDate: 'Août 2024',
       employer: 'Prefabat',
       city: 'Le Kertoff',
       achievements: [
-        "Diverses tâches de maintenance logicielle",
-        "Réalisation de nouvelles solutions pour l'entreprise",
-        "Gérer le déploiement d'une nouvelle solution au sein de l'entreprise."
+        "Dévellopement .NET",
+        "C#, ASP, VB",
+        "Gestion de Projet",
+        "Gestion de Base de donnée",
+        "SQL SERVER, UML, Modélisation",
+        "Création de Module Wordpress",
+        "Microsoft Dynamics NAV"
       ]
     },
     {
